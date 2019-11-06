@@ -11,10 +11,9 @@ const routes: Routes = [
     path: 'home',
     loadChildren: () => import('./home/home.module').then(m => m.HomePageModule)
   },
-  {
-    path: 'list',
-    loadChildren: () => import('./list/list.module').then(m => m.ListPageModule)
-  }
+
+  { path: 'movie-display', loadChildren: './movie-display/movie-display.module#MovieDisplayPageModule' },
+  { path: ':id', loadChildren: './subcategory/subcategory.module#SubcategoryPageModule' }
 ];
 
 @NgModule({

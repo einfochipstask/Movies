@@ -1,0 +1,542 @@
+[
+    {
+    "category": "action",
+    "type": "Hollywood",
+    "title": "Avengers: End Game ",
+    "year": 2019,
+    "duration": "200",
+    "rating": "4.5",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Robert Downey, Jr.",
+    "Chris Evans",
+    "Chris Hemsworth",
+    "Mark Ruffalo"
+    ],
+    "description": "",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwbJSTHUHed4iVWodNWIvR-QL7h-1jKQqJ9jm6dGAZefx-Kx-a"
+    },
+    {
+    "category": "action",
+    "title": "Fast and Furious",
+    "year": 2019,
+    "duration": "180",
+    "rating": "4.2",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Rock, Jr.",
+    "Roman Rings",
+    "Chris Hemsworth",
+    "Mark Ruffalo"
+    ],
+    "description": "",
+    "img":""
+    },
+    {
+    "category": "action",
+    "title": "War",
+    "year": 2019,
+    "duration": "154",
+    "rating": "4.8",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Hrithik Roshan",
+    "Tiger Shroff",
+    "Vaani Kapoor"
+    ],
+    "description": "",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHm7Ll26LDpZHRJjcWiQ_7tWRE0FB5Ec7QSLGIoGfEu4b8S0D_"
+    },
+    {
+    "category": "action",
+    "title": "Death Race 2",
+    "year": 2010,
+    "duration": "100",
+    "rating": "4.5",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Robert Downey, Jr.",
+    "Chris Evans",
+    "Chris Hemsworth",
+    "Mark Ruffalo"
+    ],
+    "description": "",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfQCzk-mSaV4n8Sfl8Zb8HSRUxuLvkNqYeKca3DBtF3PMaH3hi"
+    },
+    {
+    "category": "action",
+    "title": "Saaho",
+    "year": 2019,
+    "duration": "200",
+    "rating": "4.5",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Prabas",
+    "Shreda Kapoor",
+    "Paresh Rawal",
+    "Mohit Raina"
+    ],
+    "description": "",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXHxdX_rIXgI7ZXdLGFqAR-h1FHFQ5YxiQtnAXoeIrnHtDTyuP"
+    },
+    {
+    "category": "comedy",
+    "title": "The Upside",
+    "year": 2019,
+    "duration": "126",
+    "rating": "4.5",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Kevin Hart",
+    "Bryan Cranston",
+    "Nicole Kidman",
+    "Golshifteh Farahani"
+    ],
+    "description": ""
+    },
+    {
+    "category": "comedy",
+    "title": "Housefull 3",
+    "year": 2016,
+    "duration": "134",
+    "rating": "4.9",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Akshay Kumar",
+    "Abhishek Bachchan",
+    "Riteish Deshmukh",
+    "Nargis Fakhri",
+    "Jacqueline Fernandez",
+    "Lisa Haydon",
+    "Jackie Shroff"
+    ],
+    "description": ""
+    },
+    {
+    "category": "comedy",
+    "title": "Hera Pheri",
+    "year": 2000,
+    "duration": "145",
+    "rating": "3.5",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Akshay Kumar",
+    "Sunil Shetty",
+    "Paresh Rawal"
+    ],
+    "description": ""
+    },
+    {
+    "category": "codemy",
+    "title": "3 Idiots",
+    "year": 2009,
+    "duration": "170",
+    "rating": "4.9",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Aamir Khan",
+    "R. Madhavan",
+    "Sharman Joshi",
+    "Kareena Kapoor",
+    "Boman Irani",
+    "Omi Vaidya"
+    ],
+    "description": ""
+    },
+    {
+    "category": "comedy",
+    "title": "Agent Sai Srinivasa Athreya",
+    "year": 2019,
+    "duration": "148",
+    "rating": "4.5",
+    "audio": [
+    "english",
+    "telgu"
+    ],
+    "cc": [
+    "english",
+    "telgu"
+    ],
+    "cast": [
+    "Naveen Polishetty",
+    "Shruti Sharma"
+    ],
+    "description": ""
+    },
+    {
+    "category": "animation",
+    "title": "The Angry Birds Movie 2",
+    "year": 2019,
+    "duration": "97",
+    "rating": "2.8",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Jason Sudeikis",
+    "Josh Gad",
+    "Leslie Jones",
+    "Bill Hader"
+    ],
+    "description": ""
+    },
+    {
+    "category": "animation",
+    "title": "Batman: Under the Red Hood",
+    "year": 2010,
+    "duration": "75",
+    "rating": "3.7",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Bruce Greenwood",
+    "Jensen Ackles",
+    "John DiMaggio"
+    ],
+    "description": ""
+    },
+    {
+    "category": "animation",
+    "title": "Chhota Bheem Kung Fu Dhamaka",
+    "year": 2019,
+    "duration": "97",
+    "rating": "4.1",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    ],
+    "description": ""
+    },
+    {
+    "category": "animation",
+    "title": "Arjun: The Warrior Prince",
+    "year": 2012,
+    "duration": "96",
+    "rating": "2.5",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Rajesh Devraj"
+    ],
+    "description": ""
+    },
+    {
+    "category": "animation",
+    "title": "Bal Ganesh",
+    "year": 2007,
+    "duration": "106",
+    "rating": "4.8",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Ashar Shaikh"
+    ],
+    "description": ""
+    },
+    {
+    "category": "horror",
+    "title": "Annabelle Comes Home",
+    "year": 2019,
+    "duration": "106",
+    "rating": "4.5",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Mckenna Grace",
+    "Madison Iseman",
+    "Katie Sarife"
+    ],
+    "description": ""
+    },
+    {
+    "category": "horror",
+    "title": "Happy Death Day",
+    "year": 2017,
+    "duration": "96",
+    "rating": "3.7",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Jessica Rothe",
+    "Israel Broussard"
+    ],
+    "description": ""
+    },
+    {
+    "category": "horror",
+    "title": "Ghost",
+    "year": 2019,
+    "duration": "135",
+    "rating": "4.5",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Sanaya Irani",
+    "Shivam Bhaargava"
+    ],
+    "description": ""
+    },
+    {
+    "category": "horror",
+    "title": "1920: London",
+    "year": 2016,
+    "duration": "145",
+    "rating": "3.8",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Sharman Joshi",
+    "Meera Chopra",
+    "Vishal Karwal"
+    ],
+    "description": ""
+    },
+    {
+    "category": "horror",
+    "title": "Arundhati",
+    "year": 2009,
+    "duration": "131",
+    "rating": "4.2",
+    "audio": [
+    "english",
+    "telgu"
+    ],
+    "cc": [
+    "english",
+    "telgu"
+    ],
+    "cast": [
+    "Anushka Shetty",
+    "Sonu Sood",
+    "Arjan Bajwa",
+    "Manorama"
+    ],
+    "description": ""
+    },
+    {
+    "category": "science fiction",
+    "title": "The Martian",
+    "year": 2015,
+    "duration": "141",
+    "rating": "4.7",
+    "audio": [
+    "english",
+    "telgu"
+    ],
+    "cc": [
+    "english",
+    "telgu"
+    ],
+    "cast": [
+    "Matt Damon",
+    "Jessica Chastain",
+    "Kristen Wiig",
+    "Jeff Daniels"
+    ],
+    "description": ""
+    },
+    {
+    "category": "science fiction",
+    "title": "Star Wars: The Rise of Skywalker",
+    "year": 2019,
+    "duration": "155",
+    "rating": "2.7",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Carrie Fisher",
+    "Mark Hamill",
+    "Adam Driver",
+    "Daisy Ridley"
+    ],
+    "description": ""
+    },
+    {
+    "category": "science fiction",
+    "title": "Koi... Mil Gaya",
+    "year": 2003,
+    "duration": "166",
+    "rating": "4.9",
+    "audio": [
+    "english",
+    "telgu"
+    ],
+    "cc": [
+    "english",
+    "telgu"
+    ],
+    "cast": [
+    "Matt Damon",
+    "Jessica Chastain",
+    "Kristen Wiig",
+    "Jeff Daniels"
+    ],
+    "description": ""
+    },
+    {
+    "category": "science fiction",
+    "title": "Mission Mangal",
+    "year": 2019,
+    "duration": "127",
+    "rating": "4.8",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Akshay Kumar",
+    "Vidya Balan",
+    "Sonakshi Sinha",
+    "Taapsee Pannu"
+    ],
+    "description": ""
+    },
+    {
+    "category": "science fiction",
+    "title": "The Avengers",
+    "year": 2012,
+    "duration": "143",
+    "rating": "4.9",
+    "audio": [
+    "english",
+    "hindi"
+    ],
+    "cc": [
+    "english",
+    "hindi"
+    ],
+    "cast": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Mark Ruffalo",
+    "Chris Hemsworth"
+    ],
+    "description": ""
+    }
+    ]

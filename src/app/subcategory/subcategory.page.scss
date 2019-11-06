@@ -1,0 +1,60 @@
+
+
+.homepage {
+    padding: 0%;
+}
+.navbar {
+    background-color: #111D12;
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+.content {
+    padding-top: 0px;
+    background-color: rgb(32, 72, 88);
+    height: 522px;
+    color: white;
+}
+ion-card {
+    padding-top: 20px;
+}
+.footer {
+    background-color: #111D12;
+    color: rgb(255, 255, 255);
+    height: 55px;
+    text-align: center;
+    
+}
+.dropdown{
+    background-color: rgb(32, 72, 88);
+    font-family: 'Roboto Regular';
+    height:50px;
+    font-size:30px;
+    padding: 0px;
+    margin: 0px;
+
+}
+.radio-icon {
+    display: none;
+    }
+    .alert-radio-inner,
+    .alert-radio-icon,
+    .alert-radio-label {
+            display: none;
+    }
+
+.select{
+    color: white;
+    background-color: --ion-color-light;
+}
+
+.md{
+
+    --ion-text-color:white;
+    --ion-select-backgroung-color:--ion-color-light-tint;
+    
+
+  //  
+
+}
