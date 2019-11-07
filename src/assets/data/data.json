@@ -5,7 +5,7 @@
     "title": "Avengers: End Game ",
     "year": 2019,
     "duration": "200",
-    "rating": "4.5",
+    "rating": 4.5,
     "audio": [
     "english",
     "hindi"
@@ -28,7 +28,7 @@
     "title": "Fast and Furious",
     "year": 2019,
     "duration": "180",
-    "rating": "4.2",
+    "rating": 4.2,
     "audio": [
     "english",
     "hindi"
@@ -51,7 +51,7 @@
     "title": "War",
     "year": 2019,
     "duration": "154",
-    "rating": "4.8",
+    "rating": 4.8,
     "audio": [
     "english",
     "hindi"
@@ -73,7 +73,7 @@
     "title": "Death Race 2",
     "year": 2010,
     "duration": "100",
-    "rating": "4.5",
+    "rating": 4.5,
     "audio": [
     "english",
     "hindi"
@@ -96,7 +96,7 @@
     "title": "Saaho",
     "year": 2019,
     "duration": "200",
-    "rating": "4.5",
+    "rating": 4.5,
     "audio": [
     "english",
     "hindi"
@@ -119,7 +119,7 @@
     "title": "The Upside",
     "year": 2019,
     "duration": "126",
-    "rating": "4.5",
+    "rating": 4.5,
     "audio": [
     "english",
     "hindi"
@@ -141,7 +141,7 @@
     "title": "Housefull 3",
     "year": 2016,
     "duration": "134",
-    "rating": "4.9",
+    "rating": 4.9,
     "audio": [
     "english",
     "hindi"
@@ -166,7 +166,7 @@
     "title": "Hera Pheri",
     "year": 2000,
     "duration": "145",
-    "rating": "3.5",
+    "rating": 3.5,
     "audio": [
     "english",
     "hindi"
@@ -187,7 +187,7 @@
     "title": "3 Idiots",
     "year": 2009,
     "duration": "170",
-    "rating": "4.9",
+    "rating": 4.9,
     "audio": [
     "english",
     "hindi"
@@ -211,7 +211,7 @@
     "title": "Agent Sai Srinivasa Athreya",
     "year": 2019,
     "duration": "148",
-    "rating": "4.5",
+    "rating": 4.5,
     "audio": [
     "english",
     "telgu"
@@ -231,7 +231,7 @@
     "title": "The Angry Birds Movie 2",
     "year": 2019,
     "duration": "97",
-    "rating": "2.8",
+    "rating": 2.8,
     "audio": [
     "english",
     "hindi"
@@ -253,7 +253,7 @@
     "title": "Batman: Under the Red Hood",
     "year": 2010,
     "duration": "75",
-    "rating": "3.7",
+    "rating": 3.7,
     "audio": [
     "english",
     "hindi"
@@ -274,7 +274,7 @@
     "title": "Chhota Bheem Kung Fu Dhamaka",
     "year": 2019,
     "duration": "97",
-    "rating": "4.1",
+    "rating": 4.1,
     "audio": [
     "english",
     "hindi"
@@ -292,7 +292,7 @@
     "title": "Arjun: The Warrior Prince",
     "year": 2012,
     "duration": "96",
-    "rating": "2.5",
+    "rating": 2.5,
     "audio": [
     "english",
     "hindi"
@@ -311,7 +311,7 @@
     "title": "Bal Ganesh",
     "year": 2007,
     "duration": "106",
-    "rating": "4.8",
+    "rating": 4.8,
     "audio": [
     "english",
     "hindi"
@@ -330,7 +330,7 @@
     "title": "Annabelle Comes Home",
     "year": 2019,
     "duration": "106",
-    "rating": "4.5",
+    "rating": 4.5,
     "audio": [
     "english",
     "hindi"
@@ -351,7 +351,7 @@
     "title": "Happy Death Day",
     "year": 2017,
     "duration": "96",
-    "rating": "3.7",
+    "rating": 3.7,
     "audio": [
     "english",
     "hindi"
@@ -371,7 +371,7 @@
     "title": "Ghost",
     "year": 2019,
     "duration": "135",
-    "rating": "4.5",
+    "rating": 4.5,
     "audio": [
     "english",
     "hindi"
@@ -391,7 +391,7 @@
     "title": "1920: London",
     "year": 2016,
     "duration": "145",
-    "rating": "3.8",
+    "rating": 3.8,
     "audio": [
     "english",
     "hindi"
@@ -412,7 +412,7 @@
     "title": "Arundhati",
     "year": 2009,
     "duration": "131",
-    "rating": "4.2",
+    "rating": 4.2,
     "audio": [
     "english",
     "telgu"
@@ -434,7 +434,7 @@
     "title": "The Martian",
     "year": 2015,
     "duration": "141",
-    "rating": "4.7",
+    "rating": 4.7,
     "audio": [
     "english",
     "telgu"
@@ -456,7 +456,7 @@
     "title": "Star Wars: The Rise of Skywalker",
     "year": 2019,
     "duration": "155",
-    "rating": "2.7",
+    "rating": 2.7,
     "audio": [
     "english",
     "hindi"
@@ -478,7 +478,7 @@
     "title": "Koi... Mil Gaya",
     "year": 2003,
     "duration": "166",
-    "rating": "4.9",
+    "rating": 4.9,
     "audio": [
     "english",
     "telgu"
@@ -500,7 +500,7 @@
     "title": "Mission Mangal",
     "year": 2019,
     "duration": "127",
-    "rating": "4.8",
+    "rating": 4.8,
     "audio": [
     "english",
     "hindi"
@@ -522,7 +522,7 @@
     "title": "The Avengers",
     "year": 2012,
     "duration": "143",
-    "rating": "4.9",
+    "rating": 4.9,
     "audio": [
     "english",
     "hindi"

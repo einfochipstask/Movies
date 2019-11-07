@@ -58,3 +58,46 @@ ion-card {
   //  
 
 }
+.dropbtn {
+    background-color:  rgb(32, 72, 88);
+    color: white;
+    //padding: 16px;
+    font-size: 40px;
+    border: none;
+    cursor: pointer;
+    margin: 0px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:transparent;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: white;
+    text-size-adjust: 40px;
+    font-family: 'Roboto', sans-serif;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    //filter: blur(40px);
+  }
+  
+  .dropdown-content a:hover {background-color:  rgb(32, 72, 88)}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color:  rgb(32, 72, 88);
+  }

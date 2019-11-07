@@ -37,30 +37,45 @@
     <ion-content>
             <ion-row  class="dropdown">
                 <ion-col>
-                      <ion-item >
-                          <ion-select interface="popover" placeholder="Select One" mode="ios" class="md">
+                    <div class="dropdown">
+                        <button class="dropbtn"  >{{common}}<ion-icon name="ios-arrow-down"  class="select" ></ion-icon></button>
+                        <div class="dropdown-content">
+                        <a [routerLink]="['/1','New Releases']" routerLinkActive="router-link-active" >New Releses</a>
+                        <a [routerLink]="['/2','Most Popular']" routerLinkActive="router-link-active" >Most Popular</a>
+                        <a [routerLink]="['/3','Action']" routerLinkActive="router-link-active" >Action</a>
+                        <a [routerLink]="['/4','Comedy']" routerLinkActive="router-link-active" >Comedy</a>
+                        <a [routerLink]="['/5','Horror']" routerLinkActive="router-link-active" >Horror</a>
+                        <a [routerLink]="['/7','Science Fiction']" routerLinkActive="router-link-active" >Science Fiction</a>
+                        <a [routerLink]="['/6','Animation']" routerLinkActive="router-link-active" >Animation</a>
+                        </div>
+                      </div>
+                      <!-- <ion-item >
+                          <ion-select interface="popover" (ionChange)='ChangeId(1)' placeholder="Select One" mode="ios" class="md">
                             <div class="md">
-                                <ion-select-option value="nes">New Releses</ion-select-option>
-                                <ion-select-option value="n64">Most Popular</ion-select-option>
-                                <ion-select-option value="ps">Action</ion-select-option>
-                                <ion-select-option value="genesis">Comedy</ion-select-option>
-                                <ion-select-option value="saturn">Horrer</ion-select-option>
-                                <ion-select-option value="snes">Animation</ion-select-option>
+                                <ion-select-option value="nes" (onkeyup)='ChangeId(1)'>New Releses</ion-select-option>
+                                <ion-select-option value="n64" (click)=ChangeId(2)>Most Popular</ion-select-option>
+                                <ion-select-option value="ps" (click)=ChangeId(3)>Action</ion-select-option>
+                                <ion-select-option value="genesis" (click)=ChangeId(4)>Comedy</ion-select-option>
+                                <ion-select-option value="saturn" (click)=ChangeId(5)>Horrer</ion-select-option>
+                                <ion-select-option value="snes" (click)=ChangeId(6)>Animation</ion-select-option>
                             </div>
                            
                           </ion-select>
                           <ion-icon name="ios-arrow-down"  class="select" ></ion-icon> 
-                      </ion-item>
+                      </ion-item> -->
                 </ion-col>
               </ion-row>
               <div *ngFor="let item of data">
-                <ion-card *ngIf="item.common == rating > 4 || item.common == years ||item.common == category">
-
-                 <img src={{item.img}}/>
-                 <p> {{item.title}}</p>
-                 <p>{{item.rating}}</p>
-                 <p>{{item.category}}</p>
-                </ion-card>
+                
+                <div *ngIf="item.year == years && id == 1||item.rating > 4 && id == 2 ||item.category == category">
+                    <ion-card [routerLink]="['/moviedetails',item.title]" routerLinkActive="router-link-active"  >
+                        <img src={{item.img}}/>
+                        <p> {{item.title}}</p>
+                        <p>{{item.rating}}</p>
+                        <p>{{item.category}}</p>
+                        <p>{{item.year}}</p>
+                    </ion-card>
+                </div>
 
               </div>
             

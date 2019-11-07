@@ -13,7 +13,10 @@ const routes: Routes = [
   },
 
   { path: 'movie-display', loadChildren: './movie-display/movie-display.module#MovieDisplayPageModule' },
-  { path: ':id', loadChildren: './subcategory/subcategory.module#SubcategoryPageModule' }
+  { path: 'mov/:title', loadChildren: './movieinfo/movieinfo.module#MovieinfoPageModule' },
+  { path: 'moviedetails/:title', loadChildren: './moviedetails/moviedetails.module#MoviedetailsPageModule' },
+  { path: ':id/:name', loadChildren: './subcategory/subcategory.module#SubcategoryPageModule' },
+
 ];
 
 @NgModule({

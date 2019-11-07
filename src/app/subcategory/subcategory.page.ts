@@ -17,14 +17,19 @@ export class SubcategoryPage implements OnInit {
     // tslint:disable-next-line: no-unused-expression
 
    }
-   id: number;
-   common: any;
-   years: any;
+   id: any;
+   common: any ;
+   years: number;
    rating: any;
    category: any;
+   title: any;
 
  public data = [];
-
+  
+    ChangeId(opId: any) {
+      this.id = opId;
+      console.log(this.id);
+    }
 
 
   ngOnInit() {
@@ -32,57 +37,63 @@ export class SubcategoryPage implements OnInit {
    this.actrouter.params.subscribe(params => {
      // tslint:disable-next-line: no-string-literal
      this.id = params['id'];
+     // tslint:disable-next-line: no-string-literal
+     this.common = params['name'];
      console.log(this.id);
    }
 
 
   );
-  switch (this.id) { 
-
-    case 1: { 
-    this.common= 'year';
-    this.years='2019'
-       break; 
-    } 
-    case 2: { 
-       this.common='rating'; 
-       this.rating='4';
-       break; 
-    } 
-    case 3: {
-       this.common='category';
-       this.category='action';
-
-       break;    
-    } 
-    case 4: { 
-      this.common='category';
-       this.category='comedy';
-       break; 
-    }  
-    case 5: { 
-      this.common='category';
-       this.category='horror';
-       break; 
-    } 
-    case 6: { 
-      this.common='category';
-       this.category='animation';
-       break; 
-    } 
-    case 7: { 
-      this.common='category';
-       this.category='horrorscience fiction';
-       break; 
-    } 
-    default: { 
-       console.log('Invalid choice'); 
-       break;              
-    } 
- }
+      switch (this.id) { 
+    
+        case "1": { 
+        this.years = 2019;
+        this.common='New Release';
+      
+           break; 
+         
+        } 
+        case "2": { 
+           this.rating = 4;
+           this.common='Most Populer';
+           break; 
+        } 
+        case "3": {
+       
+           this.category='action';
+         
+           break;    
+        } 
+        case "4": { 
+         
+           this.category='comedy';
+           break; 
+        }  
+        case "5": { 
+         
+           this.category='horror';
+           break; 
+        } 
+        case "6": { 
+          
+           this.category='animation';
+           break; 
+        } 
+        case "7": { 
+          
+           this.category='science fiction';
+           break; 
+        } 
+        default: { 
+           console.log('Invalid choice'); 
+           break;              
+        } 
+     }
 
 
   }
+
+
 
 
 }
