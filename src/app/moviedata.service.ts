@@ -6,7 +6,7 @@ import {Moviedata} from './movie';
   providedIn: 'root'
 })
 export class MoviedataService {
-
+ fav: any=[];
 
   constructor(public http: HttpClient ) {}
   getData(): Observable<Moviedata[]> {

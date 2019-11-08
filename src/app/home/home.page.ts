@@ -18,7 +18,7 @@ export class HomePage {
   }
   date = new Date();
   public data = [];
-
+  
 
   // tslint:disable-next-line: use-lifecycle-interface
   ngOnInit() {

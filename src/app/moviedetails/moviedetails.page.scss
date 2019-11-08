@@ -1,0 +1,77 @@
+.homepage {
+    padding: 0%;
+}
+.navbar {
+    background-image: linear-gradient(rgb(32, 72, 88), black);
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    height: 80px;
+}
+.watch-align {
+    text-align: right;
+}
+ion-row {
+    padding-top: 20px;
+}
+.content {
+    padding-top: 0px;
+    // background-color: rgb(32, 72, 88);
+    background-image: linear-gradient(rgb(32, 72, 88), black);
+    height: 250%;
+    align-content: center;
+}
+
+ion-card {
+    padding-top: 20px;
+}
+.category {
+    
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    text-align: center;
+    padding: 0%;
+    padding-top: 40px;
+}
+.img-prop {
+    height: 450px;
+    
+}
+.text-prop {
+    padding-left: 0px;
+    font-size: 30px;
+}
+.text-prop-inside {
+    font-size: 15px;
+    text-align: center;
+}
+.logos-border {
+    padding-left: 0px;
+    border-style: ridge;
+    border-color: white;
+    width: 500px;
+    height: 160px;
+}
+.image-size {
+    height: 275px;
+    width: 185px;
+    display: inline-block;
+    padding: 0%;
+}
+.footer {
+    // background-color: #111D12;
+    background-image: linear-gradient(rgb(32, 72, 88), black);
+    color: rgb(255, 255, 255);
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold;
+}
+.card{
+    height: 305px;
+    width: 205px;
+    display: inline-block;
+    background-color: rgb(26, 59, 71);
+    //background-image: linear-gradient(rgb(32, 72, 88), black);
+}

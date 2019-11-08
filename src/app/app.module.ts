@@ -24,7 +24,7 @@ import { HttpClientModule } from '@angular/common/http';
     StatusBar,
     SplashScreen,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
-    MoviedataService
+    MoviedataService,
   ],
   bootstrap: [AppComponent]
 })
